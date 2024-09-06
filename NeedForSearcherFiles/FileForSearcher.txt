@@ -1,0 +1,552 @@
+78 18 *
+abedin ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\fgh.txt 1 39 ( 1 )  ../tests\rewr.txt 1 36 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+abedinh ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) $
+accept ../tests\3425trgfd.txt 1 218 ( 1 ) $
+account ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+action ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+activist ../tests\3425trgfd.txt 1 218 ( 1 ) $
+addit ../tests\3425trgfd.txt 1 218 ( 1 ) $
+advis ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+advisor ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+afternoon ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+ago ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+ahead ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+akunna ../tests\3425trgfd.txt 1 218 ( 1 ) $
+allow ../tests\fghjmj.txt 1 101 ( 1 ) $
+alreadi ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+also ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+alway ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+america ../tests\fghjmj.txt 1 101 ( 1 ) $
+american ../tests\fghjmj.txt 1 101 ( 1 ) $
+amorim ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\fghjmj.txt 2 101 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+anoth ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+anti ../tests\3425trgfd.txt 1 218 ( 1 ) $
+anyth ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+ap ../tests\fghjmj.txt 1 101 ( 1 ) $
+appeal ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+appropri ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+argentina ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+argu ../tests\3425trgfd.txt 1 218 ( 1 ) $
+around ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 ) $
+articl ../tests\3425trgfd.txt 1 218 ( 1 ) $
+ask ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+attorney ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+attract ../tests\3425trgfd.txt 1 218 ( 1 ) $
+back ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+background ../tests\3425trgfd.txt 1 218 ( 1 ) $
+bahati ../tests\3425trgfd.txt 1 218 ( 1 ) $
+belliard ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 ) $
+benton ../tests\3425trgfd.txt 1 218 ( 1 ) $
+best ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+better ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+beyond ../tests\fgdhj.txt 1 33 ( 1 ) $
+big ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+bill ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+blackwat ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+bloomberg ../tests\3425trgfd.txt 1 218 ( 1 ) $
+brazil ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+brazilian ../tests\fghjmj.txt 1 101 ( 1 ) $
+brief ../tests\3425trgfd.txt 1 218 ( 1 ) $
+broaden ../tests\fgdhj.txt 1 33 ( 1 ) $
+buturo ../tests\3425trgfd.txt 1 218 ( 1 ) $
+c ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+call ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\fgh.txt 1 39 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+cana ../tests\t454y6u754t.txt 1 47 ( 1 ) $
+cancel ../tests\retht42423.txt 1 81 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+candid ../tests\fghjmj.txt 1 101 ( 1 ) $
+capit ../tests\3425trgfd.txt 1 218 ( 1 ) $
+carson ../tests\3425trgfd.txt 1 218 ( 1 ) $
+case ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rty554.txt 1 86 ( 1 ) $
+cc ../tests\3425trgfd.txt 1 218 ( 1 ) $
+cdm ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+central ../tests\fghjmj.txt 1 101 ( 1 ) $
+chanc ../tests\3425trgfd.txt 1 218 ( 1 ) $
+check ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+cheryl ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+chief ../tests\fghjmj.txt 1 101 ( 1 ) $
+chile ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) $
+chose ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+civil ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+clarifi ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+client ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+clintonemail ../tests\fgh.txt 1 39 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+com ../tests\fgh.txt 1 39 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+come ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\rewr.txt 1 36 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+coml ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+commit ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) $
+committe ../tests\3425trgfd.txt 1 218 ( 1 ) $
+commun ../tests\3425trgfd.txt 1 218 ( 1 ) $
+compani ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+compens ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+concern ../tests\3425trgfd.txt 1 218 ( 1 ) $
+confirm ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+connect ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+consid ../tests\fghjmj.txt 1 101 ( 1 ) $
+consider ../tests\3425trgfd.txt 1 218 ( 1 ) $
+contact ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+content ../tests\3425trgfd.txt 1 218 ( 1 ) $
+context ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+continu ../tests\3425trgfd.txt 1 218 ( 1 ) $
+convers ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+cook ../tests\3425trgfd.txt 1 218 ( 1 ) $
+costa ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+could ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+counsel ../tests\3425trgfd.txt 1 218 ( 1 ) $
+count ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+counterpart ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+countri ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 ) $
+coup ../tests\fghjmj.txt 1 101 ( 1 ) $
+coupl ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+critic ../tests\3425trgfd.txt 1 218 ( 1 ) $
+crowley ../tests\3425trgfd.txt 1 218 ( 1 ) $
+cultur ../tests\3425trgfd.txt 1 218 ( 1 ) $
+current ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+da ../tests\fghjmj.txt 1 101 ( 1 ) $
+dalprosecutor ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+dan ../tests\fgh.txt 1 39 ( 1 ) $
+date ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+david ../tests\3425trgfd.txt 1 218 ( 1 ) $
+davo ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+day ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 ) $
+dc ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+de ../tests\fghjmj.txt 1 101 ( 1 ) $
+death ../tests\3425trgfd.txt 1 218 ( 1 ) $
+dec ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 ) $
+decemb ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 ) $
+deep ../tests\3425trgfd.txt 1 218 ( 1 ) $
+deepli ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+denni ../tests\rewr.txt 1 36 ( 1 ) $
+depart ../tests\retht42423.txt 1 81 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+dept ../tests\3425trgfd.txt 1 218 ( 1 ) $
+determin ../tests\fgdhj.txt 1 33 ( 1 ) $
+differ ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+dilma ../tests\fghjmj.txt 1 101 ( 1 ) $
+diplomaci ../tests\3425trgfd.txt 1 218 ( 1 ) $
+diplomat ../tests\fgdhj.txt 1 33 ( 1 ) $
+discrimin ../tests\3425trgfd.txt 1 218 ( 1 ) $
+discuss ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\fgdhj.txt 1 33 ( 1 ) $
+doc ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+domest ../tests\3425trgfd.txt 1 218 ( 1 ) $
+donald ../tests\3425trgfd.txt 1 218 ( 1 ) $
+done ../tests\3425trgfd.txt 1 218 ( 1 ) $
+draft ../tests\3425trgfd.txt 1 218 ( 1 ) $
+drop ../tests\3425trgfd.txt 1 218 ( 1 ) $
+e ../tests\3425trgfd.txt 1 218 ( 1 ) $
+edwidg ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+effort ../tests\3425trgfd.txt 1 218 ( 1 ) $
+eikenberri ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+elect ../tests\fghjmj.txt 1 101 ( 1 ) $
+els ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+email ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 ) $
+end ../tests\fghjmj.txt 1 101 ( 1 ) $
+errant ../tests\3425trgfd.txt 1 218 ( 1 ) $
+esfahan ../tests\fghjmj.txt 1 101 ( 1 ) $
+est ../tests\3425trgfd.txt 1 218 ( 1 ) $
+etc ../tests\3425trgfd.txt 1 218 ( 1 ) $
+ethic ../tests\3425trgfd.txt 1 218 ( 1 ) $
+even ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+ever ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+ex ../tests\fghjmj.txt 1 101 ( 1 ) $
+exampl ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+excit ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+expect ../tests\3425trgfd.txt 1 218 ( 1 ) $
+explain ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+express ../tests\3425trgfd.txt 1 218 ( 1 ) $
+f ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+famili ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+fari ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+favor ../tests\3425trgfd.txt 1 218 ( 1 ) $
+fax ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\fgh.txt 1 39 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+feedback ../tests\3425trgfd.txt 1 218 ( 1 ) $
+feltman ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+feltmanjd ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+file ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+find ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+firri ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+first ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+fli ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+fm ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+focu ../tests\3425trgfd.txt 1 218 ( 1 ) $
+follow ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+formul ../tests\3425trgfd.txt 1 218 ( 1 ) $
+forward ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+fpm ../tests\retht42423.txt 1 81 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+franc ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+franci ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+frank ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+frattini ../tests\retht42423.txt 1 81 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+fred ../tests\3425trgfd.txt 1 218 ( 1 ) $
+french ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+fri ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rewr.txt 1 36 ( 1 ) $
+friday ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rewr.txt 1 36 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+friend ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+full ../tests\fghjmj.txt 1 101 ( 1 ) $
+fw ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+fyi ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+gay ../tests\3425trgfd.txt 1 218 ( 1 ) $
+germani ../tests\fghjmj.txt 1 101 ( 1 ) $
+get ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) $
+give ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+go ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+good ../tests\rewr.txt 1 36 ( 1 ) $
+got ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+gotten ../tests\fgh.txt 1 39 ( 1 ) $
+gov ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\fgh.txt 1 39 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\rty554.txt 1 86 ( 1 ) $
+govern ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 ) $
+goy ../tests\rewr.txt 1 36 ( 1 ) $
+great ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+group ../tests\3425trgfd.txt 1 218 ( 1 ) $
+guinea ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rty554.txt 1 86 ( 1 ) $
+h ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+hagu ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+haiti ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) $
+handedli ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+happen ../tests\3425trgfd.txt 1 218 ( 1 ) $
+happi ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+happili ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+harold ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+hatr ../tests\3425trgfd.txt 1 218 ( 1 ) $
+help ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+high ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+hillari ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+holbrook ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 ) $
+home ../tests\t454y6u754t.txt 1 47 ( 1 ) $
+homosexu ../tests\3425trgfd.txt 1 218 ( 1 ) $
+hondura ../tests\fghjmj.txt 1 101 ( 1 ) $
+honduran ../tests\fghjmj.txt 1 101 ( 1 ) $
+hongju ../tests\rty554.txt 1 86 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+hope ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+huma ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\rewr.txt 1 36 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\fgh.txt 1 39 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+iand ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty554.txt 1 86 ( 1 ) $
+idea ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty554.txt 1 86 ( 1 ) $
+iii ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+ill ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+immin ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+imprison ../tests\3425trgfd.txt 1 218 ( 1 ) $
+info ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+initi ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+inquiri ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+instruct ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+integr ../tests\3425trgfd.txt 1 218 ( 1 ) $
+intern ../tests\3425trgfd.txt 1 218 ( 1 ) $
+interview ../tests\3425trgfd.txt 1 218 ( 1 ) $
+iran ../tests\fghjmj.txt 1 101 ( 1 ) $
+issu ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+itali ../tests\retht42423.txt 1 81 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+ito ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+j ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 ) $
+jacob ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+jacobi ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+jail ../tests\3425trgfd.txt 1 218 ( 1 ) $
+jake ../tests\45thyuytytfsda.txt 1 42 ( 1 ) $
+jame ../tests\3425trgfd.txt 1 218 ( 1 ) $
+jan ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\fgh.txt 1 39 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+janeiro ../tests\fghjmj.txt 1 101 ( 1 ) $
+januari ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\fgh.txt 1 39 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+jeff ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+jeffrey ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+job ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+johnni ../tests\3425trgfd.txt 1 218 ( 1 ) $
+jone ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 ) $
+judg ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+june ../tests\fghjmj.txt 1 101 ( 1 ) $
+kampala ../tests\3425trgfd.txt 1 218 ( 1 ) $
+karl ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+keep ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+know ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+koh ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+kohhh ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+kouchen ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+kouchner ../tests\retht42423.txt 1 81 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+l ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+landler ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+largest ../tests\fghjmj.txt 1 101 ( 1 ) $
+last ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+late ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+latin ../tests\fghjmj.txt 1 101 ( 1 ) $
+law ../tests\3425trgfd.txt 1 218 ( 1 ) $
+lawmak ../tests\3425trgfd.txt 1 218 ( 1 ) $
+lawyer ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+lay ../tests\3425trgfd.txt 1 218 ( 1 ) $
+leader ../tests\3425trgfd.txt 1 218 ( 1 ) $
+left ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) $
+legal ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 ) $
+legisl ../tests\3425trgfd.txt 1 218 ( 1 ) $
+lesbian ../tests\3425trgfd.txt 1 218 ( 1 ) $
+let ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 ) $
+level ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) $
+life ../tests\3425trgfd.txt 1 218 ( 1 ) $
+like ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+likelihood ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+ln ../tests\3425trgfd.txt 1 218 ( 1 ) $
+local ../tests\3425trgfd.txt 1 218 ( 1 ) $
+lona ../tests\rewr.txt 1 36 ( 1 ) $
+london ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+look ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+luiz ../tests\fghjmj.txt 1 101 ( 1 ) $
+lula ../tests\fghjmj.txt 1 101 ( 1 ) $
+lunch ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty554.txt 1 86 ( 1 ) $
+luu ../tests\t454y6u754t.txt 1 47 ( 1 ) $
+mailto ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+make ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) $
+mani ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+manifest ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+manuel ../tests\fghjmj.txt 1 101 ( 1 ) $
+marina ../tests\fgh.txt 1 39 ( 1 ) $
+matt ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+may ../tests\fghjmj.txt 1 101 ( 1 ) $
+mean ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+meanwhil ../tests\fghjmj.txt 1 101 ( 1 ) $
+meet ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+member ../tests\3425trgfd.txt 1 218 ( 1 ) $
+memo ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+messag ../tests\fgh.txt 1 39 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+mexico ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) $
+miami ../tests\t454y6u754t.txt 1 47 ( 1 ) $
+michael ../tests\3425trgfd.txt 1 218 ( 1 ) $
+mid ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+might ../tests\fgdhj.txt 1 33 ( 1 ) $
+mileston ../tests\fgdhj.txt 1 33 ( 1 ) $
+militari ../tests\fgdhj.txt 1 33 ( 1 ) $
+mill ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+millscd ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+min ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+minist ../tests\3425trgfd.txt 1 218 ( 1 ) $
+ministeri ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+minut ../tests\fghjmj.txt 1 101 ( 1 ) $
+miss ../tests\3425trgfd.txt 1 218 ( 1 ) $
+monday ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+monitor ../tests\3425trgfd.txt 1 218 ( 1 ) $
+month ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+morn ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+moroccan ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+mottaki ../tests\fghjmj.txt 1 101 ( 1 ) $
+much ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+multilater ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+museveni ../tests\3425trgfd.txt 1 218 ( 1 ) $
+nation ../tests\fghjmj.txt 1 101 ( 1 ) $
+neck ../tests\fghjmj.txt 1 101 ( 1 ) $
+need ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+never ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+new ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+next ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+night ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+noon ../tests\rewr.txt 1 36 ( 1 ) $
+nov ../tests\fghjmj.txt 1 101 ( 1 ) $
+nsaba ../tests\3425trgfd.txt 1 218 ( 1 ) $
+number ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+nw ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+object ../tests\fgdhj.txt 1 33 ( 1 ) $
+oct ../tests\3425trgfd.txt 1 218 ( 1 ) $
+offer ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+offic ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 ) $
+offici ../tests\fghjmj.txt 1 101 ( 1 ) $
+ojambo ../tests\3425trgfd.txt 1 218 ( 1 ) $
+ok ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+one ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+oppos ../tests\3425trgfd.txt 1 218 ( 1 ) $
+optimist ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+option ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+oral ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+orient ../tests\3425trgfd.txt 1 218 ( 1 ) $
+origin ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\3425trgfd.txt 4 218 ( 1 2 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\fgh.txt 1 39 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+other ../tests\3425trgfd.txt 1 218 ( 1 ) $
+ought ../tests\3425trgfd.txt 1 218 ( 1 ) $
+oust ../tests\fghjmj.txt 1 101 ( 1 ) $
+outcom ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+outreach ../tests\3425trgfd.txt 1 218 ( 1 ) $
+pace ../tests\3425trgfd.txt 1 218 ( 1 ) $
+pari ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\rty554.txt 1 86 ( 1 ) $
+parliament ../tests\3425trgfd.txt 1 218 ( 1 ) $
+parliamentari ../tests\3425trgfd.txt 1 218 ( 1 ) $
+part ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 ) $
+particip ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+pass ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+passport ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+past ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+paul ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+pay ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+penalti ../tests\3425trgfd.txt 1 218 ( 1 ) $
+peopl ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+peru ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+philip ../tests\3425trgfd.txt 1 218 ( 1 ) $
+phone ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+phrase ../tests\fgdhj.txt 1 33 ( 1 ) $
+pl ../tests\45thyuytytfsda.txt 1 42 ( 1 ) $
+plan ../tests\3425trgfd.txt 1 218 ( 1 ) $
+pleas ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+pm ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+polit ../tests\fgdhj.txt 1 33 ( 1 ) $
+posner ../tests\3425trgfd.txt 1 218 ( 1 ) $
+post ../tests\fghjmj.txt 1 101 ( 1 ) $
+pre ../tests\3425trgfd.txt 1 218 ( 1 ) $
+prein ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+prepar ../tests\3425trgfd.txt 1 218 ( 1 ) $
+present ../tests\3425trgfd.txt 1 218 ( 1 ) $
+presid ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+presidenti ../tests\fghjmj.txt 1 101 ( 1 ) $
+press ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+previous ../tests\fghjmj.txt 1 101 ( 1 ) $
+privat ../tests\3425trgfd.txt 1 218 ( 1 ) $
+privileg ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+process ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+product ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+promis ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+promot ../tests\3425trgfd.txt 1 218 ( 1 ) $
+propos ../tests\3425trgfd.txt 1 218 ( 1 ) $
+public ../tests\3425trgfd.txt 1 218 ( 1 ) $
+punish ../tests\3425trgfd.txt 1 218 ( 1 ) $
+punta ../tests\t454y6u754t.txt 1 47 ( 1 ) $
+put ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+question ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+quiet ../tests\3425trgfd.txt 1 218 ( 1 ) $
+reaction ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+readi ../tests\3425trgfd.txt 1 218 ( 1 ) $
+realli ../tests\3425trgfd.txt 1 218 ( 1 ) $
+reassur ../tests\3425trgfd.txt 1 218 ( 1 ) $
+rec ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+recogn ../tests\fghjmj.txt 1 101 ( 1 ) $
+recognit ../tests\fghjmj.txt 1 101 ( 1 ) $
+refin ../tests\3425trgfd.txt 1 218 ( 1 ) $
+regard ../tests\3425trgfd.txt 1 218 ( 1 ) $
+releas ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+religi ../tests\3425trgfd.txt 1 218 ( 1 ) $
+remain ../tests\3425trgfd.txt 1 218 ( 1 ) $
+report ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+repugn ../tests\3425trgfd.txt 1 218 ( 1 ) $
+respons ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+return ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+rh ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 ) $
+rica ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+ricciardon ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 ) $
+richard ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 ) $
+right ../tests\3425trgfd.txt 1 218 ( 1 ) $
+rio ../tests\fghjmj.txt 1 101 ( 1 ) $
+road ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+ron ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+ross ../tests\rewr.txt 1 36 ( 1 ) $
+rousseff ../tests\fghjmj.txt 1 101 ( 1 ) $
+rout ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+rule ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+sahara ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+said ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+sarkozi ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+sat ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+saturday ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+saw ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) $
+say ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 ) $
+sbwhoeop ../tests\fgdhj.txt 1 33 ( 1 ) $
+schedul ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+scheryl ../tests\t454y6u754t.txt 1 47 ( 1 ) $
+second ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+secret ../tests\fgh.txt 1 39 ( 1 ) $
+secretari ../tests\3425trgfd.txt 1 218 ( 1 ) $
+see ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\rewr.txt 1 36 ( 1 ) $
+seem ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+sent ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 ) $
+separ ../tests\fghjmj.txt 1 101 ( 1 ) $
+serv ../tests\fghjmj.txt 1 101 ( 1 ) $
+servic ../tests\fgh.txt 1 39 ( 1 ) $
+set ../tests\3425trgfd.txt 1 218 ( 1 ) $
+sever ../tests\3425trgfd.txt 1 218 ( 1 ) $
+sexual ../tests\3425trgfd.txt 1 218 ( 1 ) $
+share ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+sheet ../tests\fgh.txt 1 39 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+sid ../tests\fgdhj.txt 1 33 ( 1 ) $
+signal ../tests\fghjmj.txt 1 101 ( 1 ) $
+significantli ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+silva ../tests\fghjmj.txt 1 101 ( 1 ) $
+sinc ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+six ../tests\3425trgfd.txt 1 218 ( 1 ) $
+soon ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+sort ../tests\3425trgfd.txt 1 218 ( 1 ) $
+sought ../tests\3425trgfd.txt 1 218 ( 1 ) $
+sound ../tests\rewr.txt 1 36 ( 1 ) $
+speech ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+spoke ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+st ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+staff ../tests\fghjmj.txt 1 101 ( 1 ) $
+stand ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+standoff ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+state ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+statu ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+still ../tests\3425trgfd.txt 1 218 ( 1 ) $
+stori ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+strategi ../tests\3425trgfd.txt 1 218 ( 1 ) $
+subject ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\rty554.txt 1 86 ( 1 ) $
+success ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+suggest ../tests\fgdhj.txt 1 33 ( 1 ) $
+suit ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+sullivan ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+sullivanii ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+sullivanjj ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 ) $
+sullivann ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+sun ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\fgh.txt 1 39 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+sunday ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) $
+support ../tests\3425trgfd.txt 1 218 ( 1 ) $
+sure ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\fgh.txt 1 39 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 ) $
+take ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+talk ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 ) $
+target ../tests\fgdhj.txt 1 33 ( 1 ) $
+team ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+televis ../tests\fghjmj.txt 1 101 ( 1 ) $
+term ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 ) $
+thank ../tests\rty554.txt 1 86 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+thereaft ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+thing ../tests\fghjmj.txt 1 101 ( 1 ) $
+think ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+thrill ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+thu ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 ) $
+thursday ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\45thyuytytfsda.txt 1 42 ( 1 ) $
+thx ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+till ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+time ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+timelin ../tests\fgdhj.txt 1 33 ( 1 ) $
+today ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rewr.txt 1 36 ( 1 ) $
+told ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\fgh.txt 1 39 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+tomorrow ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 ) $
+top ../tests\fghjmj.txt 1 101 ( 1 ) $
+toward ../tests\3425trgfd.txt 1 218 ( 1 ) $
+trip ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+turn ../tests\3425trgfd.txt 1 218 ( 1 ) $
+twice ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+two ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+u ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty554.txt 1 86 ( 1 ) $
+uganda ../tests\3425trgfd.txt 1 218 ( 1 ) $
+ugandan ../tests\3425trgfd.txt 1 218 ( 1 ) $
+un ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) $
+unclassifi ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 ) ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\fgh.txt 1 39 ( 1 ) ../tests\fgdhj.txt 1 33 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 ) ../tests\rewr.txt 1 36 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+unfold ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 ) $
+unhappi ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+unless ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 ) $
+updat ../tests\3425trgfd.txt 1 218 ( 1 ) $
+updatel ../tests\3425trgfd.txt 1 218 ( 1 ) $
+urbina ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+uruguay ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 ) $
+us ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+use ../tests\fgdhj.txt 1 33 ( 1 ) $
+valmor ../tests\rewr.txt 1 36 ( 1 ) $
+valmoro ../tests\rewr.txt 1 36 ( 1 ) $
+version ../tests\3425trgfd.txt 1 218 ( 1 ) $
+vice ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 ) $
+victim ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+w ../tests\45thyuytytfsda.txt 1 42 ( 1 )  ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\rty54534rt5.txt 1 70 ( 1 )  ../tests\rty554.txt 1 86 ( 1 ) $
+want ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\t454y6u754t.txt 1 47 ( 1 )  ../tests\qrewthrcds.txt 1 54 ( 1 ) $
+warn ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+washington ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+wed ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rty554.txt 1 86 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 ) $
+week ../tests\dcvfbghh34.txt 1 64 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+weekend ../tests\fghjmj.txt 1 101 ( 1 ) $
+welcom ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\rterythrgrf.txt 1 90 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 ) $
+well ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\rgthjmyuhyt.txt 1 103 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\4rthyt.txt 1 44 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+wha ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+whether ../tests\dcvfbghh34.txt 1 64 ( 1 ) $
+work ../tests\retht42423.txt 1 81 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+worri ../tests\3425trgfd.txt 1 218 ( 1 ) $
+would ../tests\r43t5yjurfd.txt 1 103 ( 1 )  ../tests\3425trgfd.txt 1 218 ( 1 )  ../tests\retht42423.txt 1 81 ( 1 )  ../tests\fghjmj.txt 1 101 ( 1 )  ../tests\43rtgtf34.txt 1 97 ( 1 ) $
+xo ../tests\t454y6u754t.txt 1 47 ( 1 ) $
+yamamoto ../tests\3425trgfd.txt 1 218 ( 1 ) $
+ye ../tests\3425trgfd.txt 1 218 ( 1 ) $
+year ../tests\rethyuj67jyrhg.txt 1 103 ( 1 ) $
+yesterday ../tests\fghjmj.txt 1 101 ( 1 ) $
+zelaya ../tests\fghjmj.txt 1 101 ( 1 ) 
